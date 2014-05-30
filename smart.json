@@ -3,6 +3,6 @@
   "description": "Compile ECMAScript 6 (Harmony) to ECMAScript 5 with Google's Traceur compiler.",
   "homepage": "https://github.com/christianbundy/meteor-es6",
   "author": "Christian Bundy <me@christianbundy.com>",
-  "version": "1.0.0-0.0.42",
+  "version": "1.0.1-0.0.42",
   "git": "https://github.com/christianbundy/meteor-es6.git"
 }

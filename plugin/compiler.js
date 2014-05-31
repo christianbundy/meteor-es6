@@ -17,7 +17,7 @@ Plugin.registerSourceHandler("next.js", function (compileStep) {
   // compile ES6 to ES5
   var output = traceur.compile(content, options);
 
-  if (output.error) {
+  if (typeof output.error !== 'undefined') {
     throw new Error(output.error);
   } else {
     // solve bug where "module is not defined" in Meteor

@@ -1,6 +1,8 @@
 # Meteor ES6
 
-Compile ECMAScript 6 (Harmony) to ECMAScript 5 with Google's [Traceur compiler](https://github.com/google/traceur-compiler).
+Compile ECMAScript 6 (Harmony) to ECMAScript 5 with Google's [Traceur compiler](https://github.com/google/traceur-compiler). 
+
+Files ending with `.next.js` will be compiled (with source maps) and bundled automatically.
 
 ## Getting Started
 
@@ -10,7 +12,8 @@ Using [Meteorite](https://github.com/oortcloud/meteorite/), add this package to 
 mrt add es6
 ```
 
-File ending with `.next.js` will be compiled (with source maps) and bundled automatically.
+Check out the example application, [meteor-es6-example](/christianbundy/meteor-es6-example)!
+
 
 ## License
 

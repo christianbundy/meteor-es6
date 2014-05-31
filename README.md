@@ -10,7 +10,7 @@ Using [Meteorite](https://github.com/oortcloud/meteorite/), add this package to 
 mrt add es6
 ```
 
-Every file ending with `.next.js` will be automatically compiled (with source maps) and bundled in the Meteor application.
+File ending with `.next.js` will be compiled (with source maps) and bundled automatically.
 
 ## License
 

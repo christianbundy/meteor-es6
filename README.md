@@ -12,7 +12,7 @@ Using [Meteorite](https://github.com/oortcloud/meteorite/), add this package to 
 mrt add es6
 ```
 
-Check out the example application, [meteor-es6-example](/christianbundy/meteor-es6-example)!
+Check out the example application, [meteor-es6-example](https://github.com/christianbundy/meteor-es6-example)!
 
 
 ## License
